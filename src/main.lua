@@ -21,8 +21,8 @@ lib = mods["adamant-ModpackLib"]
 
 local config = chalk.auto("config.lua")
 
-local PACK_ID = error("SCAFFOLD_TODO: set PACK_ID to your pack id")
-local MODULE_ID = "SCAFFOLD_TODO_ModuleId"
+local PACK_ID = "speedrun"
+local MODULE_ID = "SurfaceRebalance"
 local PLUGIN_GUID = _PLUGIN.guid
 
 local function init()
@@ -37,9 +37,9 @@ local function init()
         config = config,
         modpack = PACK_ID,
         id = MODULE_ID,
-        name = "SCAFFOLD_TODO Module Name",
-        shortName = "SCAFFOLD_TODO_SHORT",
-        tooltip = "SCAFFOLD_TODO tooltip",
+        name = "Surface Rebalance",
+        shortName = "SurfaceRebalance",
+        tooltip = "Surface-specific route and encounter rebalance options for the Speedrun modpack.",
     })
     if not module then
         return
