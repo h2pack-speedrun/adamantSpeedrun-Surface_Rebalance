@@ -34,7 +34,7 @@ local function init()
         modpack = PACK_ID,
         id = MODULE_ID,
         name = "Surface Rebalance",
-        shortName = "SurfaceRebalance",
+        shortName = "Surface Rebalance",
         tooltip = "Surface-specific route and encounter rebalance options for the Speedrun modpack.",
     })
     if not module then

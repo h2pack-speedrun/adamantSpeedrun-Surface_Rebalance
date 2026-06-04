@@ -7,7 +7,7 @@ return {
     option = {
         type = "checkbox",
         alias = "RemoveSurfaceHeracles",
-        label = "Remove Surface Heracles",
+        label = "Remove Thessaly Heracles",
         default = false,
         tooltip = "Removes Heracles encounter options from Thessaly.",
     },

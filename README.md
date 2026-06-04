@@ -11,13 +11,13 @@ Surface Rebalance collects Surface-specific route and encounter changes for spee
 Current options:
 
 - Force Thessaly Miniboss
+  Forces one Thessaly miniboss to appear between rooms 2-4.
 - Force Olympus Midshop
-- Remove Surface Heracles
+  Forces the Olympus midshop to appear between rooms 5-7.
+- Remove Thessaly Heracles
+  Removes Heracles encounter options from Thessaly.
 - Adjust Charybdis Behavior
-
-## Gameplay Impact
-
-These options affect Surface route structure and Surface encounter pacing. Each option is individually configurable from the shared Speedrun settings window.
+  At phase transition, tentacles despawn in 1 second instead of 9 seconds. Charybdis fires 6 spits instead of 8.
 
 ## Installation
 
