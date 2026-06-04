@@ -2,11 +2,11 @@
 schemaVersion = "0.0.1"
 
 [package]
-namespace = "adamant"
-name = "Speedrun_Surface_Rebalance"
+namespace = "adamantSpeedrun"
+name = "Surface_Rebalance"
 description = "Surface-specific route and encounter rebalance options for the Speedrun modpack."
 versionNumber = "0.0.1"
-websiteUrl = "https://github.com/h2pack-speedrun/adamant-Speedrun_Surface_Rebalance"
+websiteUrl = "https://github.com/h2pack-speedrun/adamantSpeedrun-Surface_Rebalance"
 containsNsfwContent = false
 
 [package.dependencies]
