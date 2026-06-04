@@ -12,7 +12,7 @@ function data.buildStorage(options)
                 default = option.default == true,
             })
         else
-            error(("Unsupported option type '%s' in %s"):format(tostring(option.type), PACK_ID .. ".SurfaceRebalance"))
+            error(("Unsupported option type '%s' in %s"):format(tostring(option.type), PACK_ID .. ".Surface_Rebalance"))
         end
     end
     return storage
