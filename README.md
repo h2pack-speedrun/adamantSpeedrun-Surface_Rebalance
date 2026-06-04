@@ -2,20 +2,25 @@
 
 Surface-specific route and encounter rebalance options for the Speedrun modpack.
 
-Part of the [Speedrun modpack](https://github.com/h2pack-speedrun/speedrun-modpack).
+Part of the [Speedrun modpack](https://thunderstore.io/c/hades-ii/p/adamant/Speedrun_Core/).
 
 ## What It Does
 
-SCAFFOLD_TODO: Explain what this module lets players control.
+Surface Rebalance collects Surface-specific route and encounter changes for speedrun routing.
+
+Current options:
+
+- Force Thessaly Miniboss
+- Force Olympus Midshop
+- Remove Surface Heracles
+- Adjust Charybdis Behavior
 
 ## Gameplay Impact
 
-SCAFFOLD_TODO: Explain how this module changes a run when enabled.
+These options affect Surface route structure and Surface encounter pacing. Each option is individually configurable from the shared Speedrun settings window.
 
-## How To Use
+## Installation
 
-Install using r2modman. In game, open the Speedrun menu and configure this module from the shared settings window.
+Install via r2modman.
 
-## More Information
-
-- [Speedrun modpack](https://github.com/h2pack-speedrun/speedrun-modpack)
+This module is usually installed as part of the full [Speedrun modpack](https://thunderstore.io/c/hades-ii/p/adamant/Speedrun_Core/), where it appears in the shared Speedrun UI with the other speedrun-focused modules.
