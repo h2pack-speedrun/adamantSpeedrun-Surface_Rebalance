@@ -1,12 +1,12 @@
 # Surface Rebalance
 
-Surface-specific route and encounter rebalance options for the Speedrun modpack.
+Surface-specific route and encounter rebalance options for my modpack.
 
 Part of the [Speedrun modpack](https://thunderstore.io/c/hades-ii/p/adamant/Speedrun_Modpack/).
 
 ## What It Does
 
-Surface Rebalance collects Surface-specific route and encounter changes for speedrun routing.
+This mod aims to do small and vanilla like changes to the Surface to bring it closer in line to the Underworld.
 
 Current options:
 
